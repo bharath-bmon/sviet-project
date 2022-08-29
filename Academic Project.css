@@ -1,0 +1,43 @@
+h1{
+    text-align: left;
+    color: rgb(255, 0, 0);
+    position: relative;
+    left: 0px;
+    top: 0px;
+    font-size: 30px;
+    font-family: Verdana;
+}
+h2{
+    font-family: Verdana;
+}
+body{
+    background-color: rgb(21, 245, 226,0.1);
+    background-repeat: no-repeat;  
+    background-attachment: fixed;
+    background-size: cover;
+  }
+mark{
+    background-color: rgb(198, 205, 228);
+}
+.car{
+    border: 5px dotted blue;
+    width: 300px;
+    height: 300px;
+}
+.car1{
+    border: 5px dotted blue;
+    width: 330px;
+    height: 200px;
+}
+table,td,th{
+    border: 1px solid black;
+    font-size: 25px;
+}
+.heading1{
+    background-color: aqua;
+    width: 640px;
+    color: brown;
+}
+.heading2{
+    color: rgba(255,0,0,0.5);
+}
