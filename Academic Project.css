@@ -1,0 +1,85 @@
+h1{
+    text-align: left;
+    color: rgb(255, 0, 0);
+    position: relative;
+    left: 0px;
+    top: 0px;
+    font-size: 30px;
+    font-family: Verdana;
+}
+h2{
+    font-family: Verdana;
+}
+body{
+    background-color: rgb(21, 245, 226,0.1);
+    background-repeat: no-repeat;  
+    background-attachment: fixed;
+    background-size: cover;
+  }
+mark{
+    background-color: rgb(198, 205, 228);
+}
+.car{
+    border: 5px dotted blue;
+    width: 300px;
+    height: 300px;
+}
+.car1{
+    border: 5px dotted blue;
+    width: 330px;
+    height: 200px;
+}
+table,td,th{
+    border: 1px solid black;
+    font-size: 25px;
+}
+.heading1{
+    background-color: aqua;
+    width: 640px;
+    color: brown;
+}
+.heading2{
+    color: brown;
+    left: 340px;
+
+}
+
+.abstract{
+    color: brown;
+    background-color: aqua;
+    width: 1000px;
+    text-align: center;
+}
+.car2{
+    left: 20px;
+    top: 40px ;
+    position: relative;
+    border: 2px dotted blue;
+}
+.car2{
+    border: 5px dotted blue;
+    height: 200px;
+    width: 250px;
+}
+.img3{
+    height: 30px;
+    left: 690px;
+    top:45px;
+    position: relative;
+}
+.img3{
+    border: 5px dotted blue;
+    height: 440px;
+    width: 633px;
+}
+.implementation{
+    position: absolute;
+    top: 850px;
+
+}
+button{
+    width: 120px;
+    height: 50px;
+    font-size: 20px;
+    
+}
